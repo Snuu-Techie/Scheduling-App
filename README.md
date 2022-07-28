@@ -1,2 +1,2 @@
-# Scheduling-App
+## Scheduling-App
 A simple appointment scheduling  web application
